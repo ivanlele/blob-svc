@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS blobs
+(
+    id     BIGSERIAL PRIMARY KEY,
+    blob JSONB NOT NULL
+);

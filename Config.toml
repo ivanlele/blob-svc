@@ -1,0 +1,2 @@
+db_url="postgres://blob:blob@localhost:9995/blob?sslmode=disable"
+port=8000
